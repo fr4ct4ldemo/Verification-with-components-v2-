@@ -12,7 +12,6 @@
 
 - custom verification panel with modal-based flow
 - full server lockdown on setup — categories hidden from `@everyone` until verified
-- captcha mode with math questions, or simple agree-based verification
 - blacklist and whitelist system per user
 - cooldowns, attempt limits, and automatic timeouts
 - persistent storage via sqlite
