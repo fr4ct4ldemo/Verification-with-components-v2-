@@ -1,6 +1,6 @@
 # fractal verify 確認システム
 
-> 認証 › a modular discord verification bot built with discord.js v14. custom panels, server lockdown, role gating, captcha support, and full admin controls.
+> 認証 › a modular discord verification bot built with discord.js v14. custom panels, server lockdown, role gating, and full admin controls.
 
 [![license: mit](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 [![node.js](https://img.shields.io/badge/node.js-18%2B-brightgreen)](https://nodejs.org)
