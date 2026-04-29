@@ -1,0 +1,21 @@
+{
+  "name": "fractal-verify-bot",
+  "version": "1.0.0",
+  "description": "Advanced Discord verification bot with Components V2 and modern embeds.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy-commands": "node src/deploy-commands.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.4.3",
+    "lowdb": "^1.0.0",
+    "ms": "^2.1.3",
+    "node-cron": "^3.0.2"
+  }
+}

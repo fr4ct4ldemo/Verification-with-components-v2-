@@ -1,0 +1,78 @@
+{
+  "guild_config": [
+    {
+      "guild_id": "1498747347239178340",
+      "channel_id": "1498759827873333329",
+      "verified_role_id": "1498759927827664897",
+      "log_channel_id": "1498759727407173682",
+      "rules_text": "verify",
+      "question": "Type AGREE to confirm you read the rules",
+      "max_attempts": 3,
+      "timeout_ms": 600000,
+      "cooldown_ms": 30000,
+      "captcha_enabled": 0,
+      "dm_enabled": 0,
+      "appeal_url": "https://example.com/appeal",
+      "help_text": "Ping staff or create a support ticket for help."
+    },
+    {
+      "guild_id": "1496476254663086090",
+      "channel_id": "1498828242247880714",
+      "verified_role_id": "1496948997888278699",
+      "log_channel_id": "1496650166135033936",
+      "rules_text": "1. be respectful  no harassment, slurs, or hate of any kind  2. no spam  no flooding, ping spamming, or gibberish  3. no scamming  scammers get banned and reported immediately  4. right channels only  post in the correct channels  5. no ads  no promoting other servers or services without permission  6. transactions are final  no chargebacks after delivery, read tos before ordering  7. follow discord tos  breaking discord tos = instant ban",
+      "question": "Type AGREE to confirm you read the rules",
+      "max_attempts": 3,
+      "timeout_ms": 600000,
+      "cooldown_ms": 30000,
+      "captcha_enabled": 0,
+      "dm_enabled": 0,
+      "appeal_url": "https://example.com/appeal",
+      "help_text": "Ping staff or create a support ticket for help."
+    }
+  ],
+  "user_history": [
+    {
+      "guild_id": "1498747347239178340",
+      "user_id": "1340085571334311937",
+      "verified_at": 1777403210282,
+      "attempts_taken": 1,
+      "answer": "Not provided",
+      "age_range": "13",
+      "mode": "agreement",
+      "whitelisted": 0,
+      "blacklisted": 0,
+      "last_failed_at": null,
+      "timeout_until": null
+    },
+    {
+      "guild_id": "1496476254663086090",
+      "user_id": "1494784017373986858",
+      "verified_at": 1777419596481,
+      "attempts_taken": 1,
+      "answer": "you're gay",
+      "age_range": "12",
+      "mode": "agreement",
+      "whitelisted": 0,
+      "blacklisted": 0,
+      "last_failed_at": null,
+      "timeout_until": null
+    }
+  ],
+  "verification_logs": [
+    {
+      "guild_id": "1498747347239178340",
+      "user_id": "1340085571334311937",
+      "event_type": "success",
+      "detail": "Verified with 1 attempt(s)",
+      "created_at": 1777403210283
+    },
+    {
+      "guild_id": "1496476254663086090",
+      "user_id": "1494784017373986858",
+      "event_type": "success",
+      "detail": "Verified with 1 attempt(s)",
+      "created_at": 1777419596482
+    }
+  ]
+}
