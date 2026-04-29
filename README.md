@@ -107,10 +107,17 @@ src/
 
 ---
 
+## known issues
+
+this project is still a work in progress and some features may have bugs. if you run into any issues feel free to open one in the issues tab and i'll look into it when i can. contributions and fixes are welcome.
+
+---
+
 ## license
 
 [mit](./LICENSE) — free to use, modify, and distribute.
 
 ---
 
+<p align="center">if this helped you out, consider leaving a ⭐ on the repo, it helps a lot</p>
 <p align="center">⌘ 確認システム ｜ built by <a href="https://github.com/fr4ct4ldemo">fr4ct4ldemo</a></p>
