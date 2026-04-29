@@ -49,7 +49,7 @@ the bot also needs these permissions in your server:
 clone the repo and install dependencies
 
 ```bash
-git clone https://github.com/fr4ct4ldemo/glorious.git
+git clone https://github.com/fr4ct4ldemo/Verification-with-components-v2-.git
 cd glorious
 npm install
 ```
